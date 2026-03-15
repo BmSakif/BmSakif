@@ -18,16 +18,6 @@ I also have strong side expertise in **UI/UX design**, **Technical SEO**, **On-P
 
 ---
 
-## 🚀 Additional Skills
-
-- UI/UX Design
-- Technical SEO
-- On-Page SEO
-- AI Agent Development
-- SaaS App Building
-
----
-
 ## 🧠 A Bit About Me
 
 - Full Stack MERN Stack Developer with 4+ years of experience
