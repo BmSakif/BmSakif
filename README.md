@@ -5,18 +5,6 @@ I help businesses with **website development** and **web app development**, focu
 
 I also have strong side expertise in **UI/UX design**, **Technical SEO**, **On-Page SEO**, **AI Agent Development**, and **SaaS app building**.
 
-## 💻 Coding Skills
-
-**Frontend:** React.js, Next.js, JavaScript, TypeScript, Tailwind CSS, HTML, CSS
-
-**Backend:** Node.js, Express.js
-
-**Database:** MongoDB, MySQL
-
-**Tools & Workflow:** Git, GitHub, Postman, Firebase
-
----
-
 ## 🧠 A Bit About Me
 
 - Full Stack MERN Stack Developer with 4+ years of experience
