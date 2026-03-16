@@ -5,6 +5,10 @@ I help businesses with **website development** and **web app development**, focu
 
 I also have strong side expertise in **UI/UX design**, **Technical SEO**, **On-Page SEO**, **AI Agent Development**, and **SaaS app building**.
 
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 ## 🧠 A Bit About Me
 
 - Full Stack MERN Stack Developer with 4+ years of experience
